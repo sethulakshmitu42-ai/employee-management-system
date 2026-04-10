@@ -1,13 +1,13 @@
 # Employee Management System
 
 ## Description
-This project manages employees, tasks, leave, and attendance.
+This project manages employees, tasks, leave,salary
 
 ## Features
 - Admin, HR, Staff login
 - Task assignment
 - Leave management
-- Attendance tracking
+
 
 ## How to Run
 1. Install Python
